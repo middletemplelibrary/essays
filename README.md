@@ -12,6 +12,7 @@
  
 
 <param ve-entity eid="Q5703674"> <!-- Helena Normanton -->
+<param ve-entity eid="Q925942"> <!-- Middle Temple -->
 
 
 # Sample visual essay
@@ -33,9 +34,8 @@ _Helena Normanton_ (Dutch: Meisje met de parel) photograph of blah blah blah.[^1
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Middle Temple is located in the wider Temple area of London, near the Royal Courts of Justice, and within the City of London.
+<param ve-map center="Q925942" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
