@@ -23,6 +23,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
+# Embdedded elements
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&font=Default&lang=en&initial_zoom=2' width='50%' height='60%' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ## Image
 
 _Helena Normanton_ (Dutch: Meisje met de parel) photograph of blah blah blah.[^1]
