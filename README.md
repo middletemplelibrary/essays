@@ -18,14 +18,14 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+
 <param ve-image
        url="https://www.middletemple.org.uk/sites/default/files/styles/large/public/CC%20Temple%20Bar%2018C_0.jpg">
 
 # Basic usage
 
-# Embdedded elements
-
-<param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&font=Default&lang=en&initial_zoom=2">
+<param ve-iframe 
+       url="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&font=Default&lang=en&initial_zoom=2">
 
 
 
