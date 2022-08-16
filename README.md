@@ -25,7 +25,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Basic usage
 
 <param ve-iframe 
-       url="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&font=Default&lang=en&initial_zoom=2">
+       manifest="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&font=Default&lang=en&initial_zoom=2">
 
 
 
