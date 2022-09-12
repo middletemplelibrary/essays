@@ -30,8 +30,6 @@ This this is an example of embedding iframe elements.
 
 <param ve-iframe id="timeline" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UEgKxxkuU7QvQ7PkOM0ahUC1n0PqH7fpER_pT9jW2oI&">
 
-
-
 ## Image
 
 _Helena Normanton_ (Dutch: Meisje met de parel) photograph of blah blah blah.[^1]
@@ -45,6 +43,10 @@ _Helena Normanton_ (Dutch: Meisje met de parel) photograph of blah blah blah.[^1
 
 Middle Temple is located in the wider Temple area of London, near the Royal Courts of Justice, and within the City of London.
 <param ve-map center="Q925942" zoom="11" prefer-geojson>
+
+## Video
+
+<param ve-video id="https://www.youtube.com/embed/1yxEmmYQdl8">
 
 ## Multiple viewers
 
