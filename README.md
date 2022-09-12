@@ -48,7 +48,14 @@ Middle Temple is located in the wider Temple area of London, near the Royal Cour
 
 This this is an example of embedding video.
 
-<param ve-video url="https://www.youtube.com/watch?v=Z_fj9AIKWlA">
+<param ve-video url="https://www.youtube.com/watch?v=Z_fj9AIKWlA">\
+
+
+## Audio
+
+This this is an example of embedding audio.
+
+<param ve-audio url="https://user-images.githubusercontent.com/110464039/185081116-24e8fc07-09b3-426a-9065-a6ded0640efe.mp4">\
 
 ## Multiple viewers
 
