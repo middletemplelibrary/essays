@@ -11,7 +11,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
  
 
-<param ve-entity eid="Q5703674"> <!-- Helena Normanton -->
+<param ve-entity eid="Q28532910"> <!-- Joseph Mallord William Turner, Yacht Approaching the Coast -->
 <param ve-entity eid="Q925942"> <!-- Middle Temple -->
 
 
@@ -22,8 +22,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image
        url="https://www.middletemple.org.uk/sites/default/files/styles/large/public/CC%20Temple%20Bar%2018C_0.jpg">
 
-# Basic usage
-
 # Iframe
 
 This this is an example of embedding iframe elements.
@@ -32,7 +30,10 @@ This this is an example of embedding iframe elements.
 
 ## Image
 
-_Helena Normanton_ (Dutch: Meisje met de parel) photograph of blah blah blah.[^1]
+To write in italics, you need to put an _underscore_ at either end of the area you want italicised\
+
+To create footnote entries, you need to enter an upward chevron followed by the number of the footnote and close it with a bracket [^1] \
+
 <param ve-image 
        label="Helena Normanton" 
        description="photograph" 
